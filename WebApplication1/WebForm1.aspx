@@ -23,6 +23,7 @@
                    <h1>Hello Aashi This is git learning page!!!</h1>
 
             <h1>Hello Lalit</h1>
+            <h1>Hello Ricky</h1>
 
         </div>
     </form>
